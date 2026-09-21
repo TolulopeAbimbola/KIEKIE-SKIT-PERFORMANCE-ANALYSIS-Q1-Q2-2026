@@ -25,6 +25,7 @@ Facebook → Excel → Power BI → Analysis & Visualization
 
 # DASHBOARD || REPORT
 
+<img width="1600" height="816" alt="Image" src="https://github.com/user-attachments/assets/8b29495d-9807-4fc4-ae9d-962bf56f80ca" />
 
 # Key Insights – Skit Performance Analysis
 
