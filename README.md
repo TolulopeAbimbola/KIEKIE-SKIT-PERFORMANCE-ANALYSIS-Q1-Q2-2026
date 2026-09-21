@@ -23,6 +23,9 @@ Power BI DAX – Used to create calculations and measures for analyzing key perf
 # Data Flow:
 Facebook → Excel → Power BI → Analysis & Visualization
 
+# DASHBOARD || REPORT
+
+
 # Key Insights – Skit Performance Analysis
 
 ### Based on the Power BI dashboard covering January–June 2026, the following key insights were identified:
