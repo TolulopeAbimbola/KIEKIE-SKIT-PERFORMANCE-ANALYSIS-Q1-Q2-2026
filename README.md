@@ -78,3 +78,59 @@ The analysis shows three important dimensions of performance: content production
 ## Summary Insight
 
 The analysis shows that Facebook skit performance varied significantly by skit maker, month, posting day, and content category. Kiekie recorded the highest overall views and likes among the listed makers, while Mama Deola produced the most skits. February had the highest content output, Tuesday had the highest number of releases, and Monday recorded the highest daily views. Lifestyle content also accounted for the largest share of views and likes among the categories shown.
+
+# 5 Data-Driven Recommendations
+
+Based on the January–June 2026 Facebook skit performance analysis, the following recommendations can be made:
+
+1. Increase Investment in High-Performing Creators
+
+The analysis shows that Kiekie generated about 114M views and 23M likes, while Mr Macaroni and Sabinus also recorded high view volumes. More resources should be allocated to creators who consistently generate strong audience reach and engagement.
+
+Financial recommendation: Instead of distributing the content budget equally, use a performance-based budget allocation. Higher-performing creators can receive more production, promotion, and advertising resources, while performance is monitored to determine whether the additional spending produces better returns.
+
+2. Focus on High-Performing Content Categories
+
+The Lifestyle category records the largest combined contribution of views and likes among the categories displayed. Content planning should therefore examine what characteristics make these categories successful and produce more content around themes that demonstrate strong audience response.
+
+Financial recommendation: Allocate a larger portion of the content-production budget to categories with proven engagement, while maintaining smaller experimental budgets for other categories to test new opportunities.
+
+3. Optimize the Content Release Schedule
+
+February recorded the highest number of skits released (67), while June recorded the lowest (36). In addition, Monday recorded the highest daily views at approximately 403K, while Tuesday had the highest number of releases (55).
+
+This suggests that content volume and audience reach should be analyzed separately when deciding when to publish.
+
+Recommendation: Test publishing more high-quality content around days with stronger audience reach, particularly Monday, while monitoring performance rather than simply increasing the number of posts.
+
+4. Introduce a Stronger Monetization Strategy
+
+The dashboard records approximately 386M views, 45M likes, 72M shares, and 507K comments. This represents substantial audience activity that can potentially support different revenue opportunities.
+
+# Financial recommendation:
+
+Develop multiple monetization channels such as:
+
+Brand sponsorships and partnerships
+Paid product placements within skits
+Sponsored content
+Affiliate marketing
+Promotional campaigns for businesses
+
+Revenue should be tracked against the views, engagement, and production cost of each campaign so that profitability can be measured.
+
+The dashboard itself does not contain revenue or production-cost data, so actual profitability cannot be determined from the current analysis alone.
+
+5. Build a Performance-Based Content Strategy
+
+The analysis shows that producing more skits does not automatically mean generating the highest audience reach. For example, Mama Deola produced the highest number of skits (77), while Kiekie recorded the highest views among the listed creators (114M).
+
+
+Financial benefit: This will help management identify which content and creators provide better value for the money invested and make future budgeting more data-driven.
+
+ #  Overall Recommendation
+
+The main focus should be on improving the relationship between content investment and audience performance. Resources should be directed toward high-performing creators and content themes, while publishing schedules and monetization opportunities should be continuously tested and measured using clear financial and engagement KPIs.
+
+
+### AUTHOR: ABIMBOLA TOLULOPE
