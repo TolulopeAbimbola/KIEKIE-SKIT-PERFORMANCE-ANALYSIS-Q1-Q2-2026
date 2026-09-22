@@ -1,140 +1,200 @@
 # KIEKIE-SKIT-PERFORMANCE-ANALYSIS-Q1-Q2-2026
-This project presents an analysis of Facebook skit performance from January to June 2026. Data was collated from Facebook, organized and prepared in Excel, then analyzed using Power BI. The dashboard provides insights into views, likes, shares, comments, skit releases, content categories, and overall audience engagement.
+This project analyzes Kiekie’s Facebook skit performance from January to June 2026. Data was collected from Facebook, organized and prepared in Excel, and analyzed using Power BI. The analysis examines views, likes, shares, saves, comments, content categories, and release patterns to understand audience engagement and content performance.
 
  # Objectives of the Analysis
 
-## The main objectives of this analysis are to:
+## The main objectives of the Kiekie Skit Performance Analysis are to:
 
-Measure overall skit performance using key metrics such as views, likes, shares, and comments.
-Identify top-performing skit makers based on audience views and engagement.
-Analyze posting trends to determine the months and days of the week with higher skit releases and audience activity.
-Compare audience engagement across different skit categories and content themes.
-Identify the most-viewed and most-liked skits to understand the content that attracts greater audience attention.
-Examine performance by quarter to observe changes in skit production and overall performance over the six-month period.
-Present the findings visually through an interactive Power BI dashboard to support easier interpretation and data-driven decision-making.
+Evaluate overall content performance by analyzing total views, likes, shares, saves, and comments.
+Identify top-performing skits based on views and likes to determine the content that attracts the highest audience engagement.
+Analyze monthly release patterns to understand changes in content production from January to June 2026.
+Examine weekly posting patterns and identify the days with the highest number of skit releases.
+Compare content categories to determine which categories generate higher views, likes, saves, and shares.
+Measure audience engagement by examining how viewers interact with Kiekie’s content through likes, shares, saves, and comments.
+Identify content performance trends that can support better content planning and audience growth.
+Provide data-driven insights that can guide future content strategy, promotional activities, and resource allocation.
 
 # Tools Used for the Analysis
 
-Facebook – Used as the primary source for collecting the skit performance data, including views, likes, shares, comments, and other engagement information.
-Microsoft Excel – Used to collate, organize, clean, and prepare the data collected from Facebook for analysis.
-Microsoft Power BI – Used to analyze the prepared dataset and create interactive visualizations, charts, and the performance dashboard.
-Power BI DAX – Used to create calculations and measures for analyzing key performance indicators such as total views, likes, shares, comments, and skit counts.
+Facebook – Used as the primary source for collecting Kiekie’s skit performance data, including views, likes, shares, saves, comments, and content information.
+Microsoft Excel – Used to collate, organize, clean, and prepare the data collected from Facebook before analysis.
+Microsoft Power BI – Used to analyze the prepared dataset and create the interactive dashboard, charts, KPIs, and visualizations.
+DAX (Data Analysis Expressions) – Used within Power BI to create measures and calculations for key performance indicators such as total views, likes, shares, saves, and comments.
 
-# Data Flow:
-Facebook → Excel → Power BI → Analysis & Visualization
+
+# Data Analysis Process
+Facebook → Excel → Data Cleaning & Preparation → Power BI → Visualization & Insights
+
+
 
 # DASHBOARD || REPORT
 
 <img width="1600" height="816" alt="Image" src="https://github.com/user-attachments/assets/8b29495d-9807-4fc4-ae9d-962bf56f80ca" />
 
-# Key Insights – Skit Performance Analysis
+# Key Insights – Kiekie Skit Performance Analysis
 
-### Based on the Power BI dashboard covering January–June 2026, the following key insights were identified:
+## Based on the Power BI dashboard for January–June 2026, the following are the major insights from the analysis:
 
-1. Overall Performance
+1. Strong Overall Audience Reach
 
-The dataset contains 317 skits, generating approximately 386M total views, 45M likes, 72M shares, and 507K comments. This shows that the content achieved substantial audience reach and interaction during the six-month period.
+Kiekie released 71 skits during the six-month period and generated approximately 40M views, 3M likes, 17K shares, 32K saves, and 79K comments. This indicates a substantial level of audience reach and interaction across the content.
 
-2. Skit Release Pattern
+2. Average Performance per Skit
 
-The number of skits released varied across the months. February recorded the highest number of releases with 67 skits, followed by January with 61. June had the lowest with 36 skits, showing a reduction in content output toward the end of the period.
+Based on the dashboard totals, each skit generated approximately:
 
-3. Performance by Quarter
+563K views per skit
+42K likes per skit
+239 shares per skit
+451 saves per skit
+1.1K comments per skit
 
-The dashboard shows 180 skits (56.78%) released in one quarter compared with 137 skits (43.22%) in the other. This indicates that skit production was higher during the quarter represented by the larger share.
+These averages provide a useful benchmark for comparing the performance of individual skits.
 
-4. Best Performing Days by Views
+3. Monthly Skit Production Varied
 
-Monday recorded the highest daily views at approximately 403K, followed by Friday at 336K and Sunday at 316K. Thursday recorded the lowest views at approximately 250K. This shows noticeable differences in audience reach across posting days.
+Skit production changed considerably throughout the period:
 
-5. Skit Release by Day
+Month	Skits Released
+January	18
+February	7
+March	7
+April	15
+May	12
+June	12
 
-Tuesday had the highest number of skits released, with 55, while Sunday had the lowest with 26. Monday followed with 50 releases. Therefore, Tuesday was the most frequently used posting day in the dataset.
+January had the highest output with 18 skits, while February and March had the lowest, with 7 each. Production increased again in April and remained relatively consistent through June.
 
-6. Skit Maker Production
+4. Friday Was the Most Active Posting Day
 
-Mama Deola produced the highest number of skits (77), followed by Okola Baby (67). Layi Wasabi recorded 42, while Kiekie and Sabinus each recorded 40. Mr Macaroni had the lowest number among the listed makers, with 18.
+The day-of-the-week analysis shows that Friday had the highest number of skits released, with 16. Wednesday followed with 11, while Monday, Thursday, and Saturday each had 10.
 
-7. Views by Skit Maker
+Sunday had the lowest number of releases at 6, followed by Tuesday with 8. This shows that Friday was the most frequently used publishing day during the period.
 
-Kiekie recorded the highest total views at approximately 114M, followed by Mr Macaroni with 108M and Sabinus with 95M. Brain Jotter recorded about 34M views, while Mama Deola, Okola Baby, and Layi Wasabi recorded lower totals.
+5. Comedy Was the Dominant Content Category
 
-8. Likes by Skit Maker
+The Comedy category significantly outperformed the other categories in overall views and likes. It generated approximately 27M views and 2M likes, making it the largest contributor to overall content performance.
 
-Kiekie also recorded the highest total likes, at approximately 23M. Mr Macaroni had about 7M, while Sabinus and Brain Jotter recorded around 6M each. The difference between views and likes also shows that high reach does not necessarily correspond to the same level of likes.
+Social recorded about 4M views, while Lifestyle and Other categories recorded approximately 3M views each.
 
-9. Content Category Performance
+This indicates that comedy content was the primary driver of audience reach within the analyzed dataset.
 
-The Lifestyle category has the largest combined representation of views and likes on the category chart. Social and Family categories follow, while categories such as Culture and University have comparatively smaller figures. This indicates that audience interaction varied considerably across content themes.
+6. Comedy Also Led in Saves and Shares
 
-10. Top-Performing Skits
+The Saves and Shares analysis reinforces the strong performance of comedy content. Comedy generated approximately 23K saves and 12K shares, considerably more than the other categories shown.
 
-The Top 10 Skits by Likes chart shows a significant difference between the leading skits and the remaining entries. The highest-performing skit recorded approximately 233K likes, followed by another at about 120K likes. The remaining top entries recorded considerably lower figures.
+This suggests that comedy content was not only viewed frequently but also generated stronger actions such as saving and sharing.
 
-11. Audience Engagement
+7. Top Skits Generated Millions of Views
 
-The dashboard shows that views are substantially higher than likes and comments, indicating that reaching an audience and generating active interaction are different aspects of content performance. Shares, at approximately 72M, also represent a major form of audience interaction in the dataset.
+The Top 10 Skits by Views and Likes chart shows that the leading skits generated substantial individual reach.
 
-12. Overall Trend
+The top three visible skits recorded approximately:
 
-The analysis shows three important dimensions of performance: content production, audience reach, and audience engagement. Some creators produced more content, while others generated higher views or likes. Therefore, the dashboard provides a useful basis for comparing content volume with audience response rather than looking at the number of skits alone.
+“Incase you want r...” – 2.7M views
+“Awu... ooo” – 2.3M views
+“I'll just call rolls r...” – 2.2M views
 
-## Summary Insight
+The results show that a relatively small number of individual skits can contribute significantly to overall audience reach.
 
-The analysis shows that Facebook skit performance varied significantly by skit maker, month, posting day, and content category. Kiekie recorded the highest overall views and likes among the listed makers, while Mama Deola produced the most skits. February had the highest content output, Tuesday had the highest number of releases, and Monday recorded the highest daily views. Lifestyle content also accounted for the largest share of views and likes among the categories shown.
+8. Top Skits by Likes
 
-# 5 Data-Driven Recommendations
+The Top Skits by Likes chart shows considerable engagement among the leading videos. The top five visible skits recorded approximately:
 
-Based on the January–June 2026 Facebook skit performance analysis, the following recommendations can be made:
+239K likes
+189K likes
+171K likes
+142K likes
+107K likes
 
-1. Increase Investment in High-Performing Creators
+This indicates that some individual skits generated significantly higher audience interaction than others.
 
-The analysis shows that Kiekie generated about 114M views and 23M likes, while Mr Macaroni and Sabinus also recorded high view volumes. More resources should be allocated to creators who consistently generate strong audience reach and engagement.
+9. Views and Likes Are Not Distributed Equally
 
-Financial recommendation: Instead of distributing the content budget equally, use a performance-based budget allocation. Higher-performing creators can receive more production, promotion, and advertising resources, while performance is monitored to determine whether the additional spending produces better returns.
+The dashboard shows that content performance varies considerably from one skit to another. Some skits achieved very high views, while others generated comparatively stronger like engagement.
 
-2. Focus on High-Performing Content Categories
+Therefore, views alone should not be used to measure content success. Combining views, likes, shares, saves, and comments gives a more complete picture of audience response.
 
-The Lifestyle category records the largest combined contribution of views and likes among the categories displayed. Content planning should therefore examine what characteristics make these categories successful and produce more content around themes that demonstrate strong audience response.
+10. Content Volume and Performance Should Be Analyzed Separately
 
-Financial recommendation: Allocate a larger portion of the content-production budget to categories with proven engagement, while maintaining smaller experimental budgets for other categories to test new opportunities.
+January had the highest number of releases (18), but the dashboard demonstrates that content quantity and audience engagement are separate performance measures.
 
-3. Optimize the Content Release Schedule
+A larger number of uploads does not automatically mean that every individual skit performs strongly. This makes metrics such as average views per skit and average engagement per skit important for evaluating content effectiveness.
 
-February recorded the highest number of skits released (67), while June recorded the lowest (36). In addition, Monday recorded the highest daily views at approximately 403K, while Tuesday had the highest number of releases (55).
+11. Audience Interaction Extends Beyond Likes
 
-This suggests that content volume and audience reach should be analyzed separately when deciding when to publish.
+The 17K shares, 32K saves, and 79K comments show that the audience interacted with the content in different ways.
 
-Recommendation: Test publishing more high-quality content around days with stronger audience reach, particularly Monday, while monitoring performance rather than simply increasing the number of posts.
-
-4. Introduce a Stronger Monetization Strategy
-
-The dashboard records approximately 386M views, 45M likes, 72M shares, and 507K comments. This represents substantial audience activity that can potentially support different revenue opportunities.
-
-# Financial recommendation:
-
-Develop multiple monetization channels such as:
-
-Brand sponsorships and partnerships
-Paid product placements within skits
-Sponsored content
-Affiliate marketing
-Promotional campaigns for businesses
-
-Revenue should be tracked against the views, engagement, and production cost of each campaign so that profitability can be measured.
-
-The dashboard itself does not contain revenue or production-cost data, so actual profitability cannot be determined from the current analysis alone.
-
-5. Build a Performance-Based Content Strategy
-
-The analysis shows that producing more skits does not automatically mean generating the highest audience reach. For example, Mama Deola produced the highest number of skits (77), while Kiekie recorded the highest views among the listed creators (114M).
+In particular, saves and shares can provide useful indicators of content that audiences find worth keeping or distributing to others, while comments provide evidence of active audience participation.
 
 
-Financial benefit: This will help management identify which content and creators provide better value for the money invested and make future budgeting more data-driven.
+## Summary  Insight
 
- #  Overall Recommendation
+Kiekie’s Facebook skit performance from January to June 2026 demonstrates strong audience reach, with 40M views across 71 skits. Comedy was the dominant content category, while Friday recorded the highest number of releases. The analysis also shows that performance varies significantly between individual skits, highlighting the importance of tracking views, likes, shares, saves, and comments together when evaluating content effectiveness.
 
-The main focus should be on improving the relationship between content investment and audience performance. Resources should be directed toward high-performing creators and content themes, while publishing schedules and monetization opportunities should be continuously tested and measured using clear financial and engagement KPIs.
+# Five Data-Driven Recommendations for Kiekie’s Skit Performance
+
+Based on the January–June 2026 Power BI analysis, the following recommendations can guide content strategy, audience growth, and financial planning.
+
+1. Increase Investment in High-Performing Content
+
+The Comedy category generated about 27M views and 2M likes, far above the other categories shown. It also recorded approximately 23K saves and 12K shares.
+
+Recommendation: Increase production and promotional investment in comedy content while continuing to test other categories.
+
+Financial consideration: Rather than increasing the entire content budget, management can allocate a larger percentage to categories demonstrating stronger engagement. Performance should be monitored against production and promotion costs.
+
+2. Prioritize High-Performing Skits for Promotion
+
+The top-performing skits generated approximately 2.7M, 2.3M, and 2.2M views, while the leading skit by likes reached about 239K likes.
+
+Recommendation: Identify the characteristics of these high-performing skits—such as topic, format, duration, or style—and use them when developing future content.
+
+Financial consideration: Paid promotion should be concentrated on content that has already demonstrated strong organic engagement instead of promoting every skit equally. This can improve the efficiency of the advertising budget.
+
+3. Optimize the Posting Schedule
+
+Friday recorded the highest number of releases with 16 skits, while Sunday had only 6. Monthly production was highest in January (18 skits) and lowest in February and March (7 each).
+
+Recommendation: Maintain a consistent publishing schedule while testing whether releasing important or promotional content around high-activity days produces stronger engagement.
+
+Financial consideration: A consistent schedule can help optimize production resources by reducing unnecessary content production while ensuring that available resources are directed toward content with measurable audience response.
+
+4. Develop a Clear Monetization Strategy
+
+The dashboard recorded approximately 40M views, 3M likes, 17K shares, 32K saves, and 79K comments during the six-month period.
+
+Recommendation: Use this level of audience activity to explore revenue opportunities such as:
+
+Sponsored skits
+Brand partnerships
+Product placements
+Affiliate promotions
+Paid campaigns
+
+Financial consideration: Each campaign should be evaluated using metrics such as cost per skit, campaign revenue, views generated, engagement, and return on investment (ROI). The current dashboard does not contain revenue or production-cost figures, so actual profitability cannot be calculated from this dataset alone.
+
+5. Measure Content Efficiency, Not Just Content Volume
+
+Kiekie released 71 skits, producing approximately 40M views. This is an average of roughly 563K views per skit across the period.
+
+Recommendation: Establish performance benchmarks such as:
+
+Views per skit
+Likes per skit
+Shares per skit
+Saves per skit
+Comments per skit
+Engagement rate
+Cost per skit
+Revenue per skit
+
+Financial consideration: Comparing cost per skit against its audience and revenue performance will help determine which types of content provide greater value for the money invested.
+
+# Overall Recommendation
+
+The analysis suggests focusing resources on content with demonstrated audience engagement, particularly comedy and high-performing skits, while maintaining a consistent publishing schedule. For stronger financial decision-making, future analysis should combine the current social-media metrics with production costs, advertising expenditure, sponsorship revenue, and other income data.
+
 
 
 ### AUTHOR: ABIMBOLA TOLULOPE
