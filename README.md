@@ -29,7 +29,7 @@ Facebook → Excel → Data Cleaning & Preparation → Power BI → Visualizatio
 
 # DASHBOARD || REPORT
 
-<img width="1600" height="816" alt="Image" src="https://github.com/user-attachments/assets/8b29495d-9807-4fc4-ae9d-962bf56f80ca" />
+<img width="1891" height="913" alt="Image" src="https://github.com/user-attachments/assets/6142a879-0ed0-42a2-90f9-dfc4ee50c418" />
 
 # Key Insights – Kiekie Skit Performance Analysis
 
