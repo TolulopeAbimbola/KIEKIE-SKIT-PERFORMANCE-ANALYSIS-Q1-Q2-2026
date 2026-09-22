@@ -128,7 +128,7 @@ The 17K shares, 32K saves, and 79K comments show that the audience interacted wi
 In particular, saves and shares can provide useful indicators of content that audiences find worth keeping or distributing to others, while comments provide evidence of active audience participation.
 
 
-## Summary  Insight
+## Summary  Insight   
 
 Kiekie’s Facebook skit performance from January to June 2026 demonstrates strong audience reach, with 40M views across 71 skits. Comedy was the dominant content category, while Friday recorded the highest number of releases. The analysis also shows that performance varies significantly between individual skits, highlighting the importance of tracking views, likes, shares, saves, and comments together when evaluating content effectiveness.
 
